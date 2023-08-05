@@ -1,0 +1,22 @@
+{
+  "name": "portal_noticias",
+  "version": "1.0.0",
+  "description": "Site de noticias",
+  "main": "noticias.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eriksid/curso_node_js.git"
+  },
+  "author": "Erik Sidnei Corrêa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eriksid/curso_node_js/issues"
+  },
+  "homepage": "https://github.com/eriksid/curso_node_js#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
